@@ -1,0 +1,15 @@
+PYTHON:
+
+https://www.python.org/
+
+MOUREDEV:
+
+https://github.com/mouredev/Hello-Python
+
+PÁGINA OFICIAL TUTORIAL EN ESPAÑOL:
+
+https://docs.python.org/es/3/tutorial/index.html
+
+30 DÍAS DE PYTHON:
+
+https://github.com/Asabeneh/30-Days-Of-Python
