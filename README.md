@@ -1,2 +1,2 @@
-# python-inicio
+# Python-inicio
 Aprendiendo a programar en Python
