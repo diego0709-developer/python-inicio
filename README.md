@@ -11,7 +11,7 @@ Este es el repositorio donde guardo mis avances y subo el proceso donde voy apre
   bool: verdadero o falso
   complex: números complejos (1 + 3k)
   
-* Algunas funciones
+* Algunas funciones ()
   -> Aprendí acerca del uso de print.
   print: función que imprime en la consola.
   -> Uso del type.
